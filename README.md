@@ -1,1 +1,19 @@
 # amac-portfolio
+
+## This Website is
+
+```
+Potential employee's deployed portfolio of work samples which
+can be reviewed and assessed whether they're a good candidate for an open position. Please NOTE this website is subject to change as more work samples will be added in the future.
+```
+
+## Website Link
+
+![]()
+
+## Mock-Up
+
+The following image shows the web application's appearance 
+
+![]()
+
