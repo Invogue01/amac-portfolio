@@ -1,7 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 section {
     height: 500px;
     background-color: white;
     border: solid black 2px;
+
 
 }
 
@@ -31,4 +36,22 @@ ul {
 li {
     
     text-decoration: none;
+}
+h1 {
+font-size: 90px;
+margin: 0;
+}
+p{
+    margin: 0;
+}
+.hero-text {
+    margin-left: 80px;
+}
+.button {
+    width: 220px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: coral;
+    text-align: center;
+
 }
