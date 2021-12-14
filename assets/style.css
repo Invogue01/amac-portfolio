@@ -14,6 +14,7 @@ section {
   color: white;
   font-size: 40px;
   justify-content: space-between;
+  
 }
 
 footer {
@@ -23,16 +24,18 @@ footer {
 nav {
   display: flex;
   justify-content: space-between;
+  
 }
 ul {
   display: flex;
   list-style-type: none;
-  width: 500px;
+  width: 400px;
   justify-content: space-around;
-  font-size: 30px;
+  font-size: 15px;
 }
 li {
   text-decoration: none;
+  margin: 10px;
 }
 h1 {
   font-size: 90px;
@@ -76,6 +79,10 @@ p {
     padding-bottom: 200px;
 }
 .logo {
-    height: 80px;
-    margin: 30px;
+    height: 55px;
+    margin: 25px;
+
+}
+.social {
+    margin: 20px;
 }
