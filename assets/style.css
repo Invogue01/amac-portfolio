@@ -128,3 +128,7 @@ hr {
   margin-left: 20px;
   margin-right: 20px;
 }
+.project-link {
+  direction: none;
+  color: #f08460;
+}
