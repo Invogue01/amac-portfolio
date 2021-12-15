@@ -111,8 +111,8 @@ a {
   align-items: center;
 }
 .headshot {
-  width: 200px;
-  border-radius: 100px;
+  width: 300px;
+  border-radius: 150px;
 }
 
 .project-container {
@@ -164,13 +164,13 @@ hr {
   }
   ul {
     display: none;
-    background-color: #2a2c38; 
+    background-color: #2a2c38;
     margin: 0px;
   }
   nav {
     display: flex;
     flex-direction: column-reverse;
-    background-color: #2a2c38; 
+    background-color: #2a2c38;
   }
   .logo {
     display: none;
