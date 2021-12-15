@@ -12,7 +12,6 @@ section {
   color: white;
   font-size: 40px;
   justify-content: space-between;
-  
 }
 
 footer {
@@ -48,7 +47,6 @@ p {
   margin: 0;
   font-size: 30px;
   font-weight: 300;
- 
 }
 a {
   text-decoration: none;
@@ -64,7 +62,7 @@ a {
   height: 100%;
   justify-content: space-between;
   align-items: center;
-  animation-duration: 5s;
+  animation-duration: 6s;
   animation-name: slidein;
 }
 
