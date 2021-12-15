@@ -3,7 +3,7 @@ body {
 }
 
 section {
-  height: 500px;
+ 
   background-color: white;
   border: solid black 2px;
 }
@@ -40,6 +40,9 @@ li {
 h1 {
   font-size: 55px;
   margin: 0;
+}
+h1 {
+  font-size: 50px;
 }
 p {
   margin: 0;
@@ -85,14 +88,17 @@ p {
 }
 .social {
     margin: 20px;
-    
-    
 }
 .sub-section {
   display: flex;
-  justify-content: space-between;
-  padding-top: 80px;
+  justify-content: space-around;
+  padding: 10px;
 }
-.information {
-
+.headshot {
+  width: 200px;
+  border-radius: 100px;
+}
+.headshot-container {
+  display: flex;
+  align-items: center;
 }
