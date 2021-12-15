@@ -12,6 +12,7 @@ section {
   color: white;
   font-size: 40px;
   justify-content: space-between;
+  
 }
 
 footer {
@@ -47,6 +48,22 @@ p {
   margin: 0;
   font-size: 30px;
   font-weight: 300;
+ 
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.sub-text {
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+}
+.hero-area {
+  display: flex;
+  height: 100%;
+  justify-content: space-between;
+  align-items: center;
   animation-duration: 5s;
   animation-name: slidein;
 }
@@ -61,21 +78,6 @@ p {
     margin-left: 0%;
     width: 100%;
   }
-}
-a {
-  text-decoration: none;
-  color: white;
-}
-.sub-text {
-  font-size: 25px;
-  font-weight: 500;
-  text-align: center;
-}
-.hero-area {
-  display: flex;
-  height: 100%;
-  justify-content: space-between;
-  align-items: center;
 }
 .hero-text {
   margin-left: 80px;
