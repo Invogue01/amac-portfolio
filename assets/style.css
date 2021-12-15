@@ -31,6 +31,7 @@ ul {
   justify-content: space-around;
   font-size: 20px;
 }
+
 li {
   text-decoration: none;
   margin: 10px;
@@ -148,6 +149,9 @@ hr {
 .hamburger {
   display: none;
 }
+.hamburger:focus {
+  outline: 0;
+}
 @media only screen and (max-width: 1000px) {
   .hamburger {
     display: block;
@@ -155,8 +159,23 @@ hr {
     background-color: transparent;
     color: white;
     font-size: 30px;
+    margin: 20px;
+    align-self: flex-end;
   }
   ul {
     display: none;
+    background-color: #2a2c38; 
+    margin: 0px;
+  }
+  nav {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #2a2c38; 
+  }
+  .logo {
+    display: none;
+  }
+  ul.show {
+    display: block;
   }
 }
