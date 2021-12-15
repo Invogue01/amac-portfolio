@@ -11,7 +11,7 @@ Please also view on Mobile device.
 
 ## Website Link
 
-![https://invogue01.github.io/amac-portfolio/](https://invogue01.github.io/amac-portfolio/)
+[https://invogue01.github.io/amac-portfolio/](https://invogue01.github.io/amac-portfolio/)
 
 ## Mock-Up
 
