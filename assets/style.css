@@ -15,8 +15,10 @@ section {
 }
 
 footer {
-  height: 500px;
   background-color: black;
+  color: white;
+  text-align: center;
+  padding: 80px;
 }
 nav {
   display: flex;
@@ -44,6 +46,10 @@ p {
   margin: 0;
   font-size: 20px;
   font-weight: 300;
+}
+a {
+  text-decoration: none;
+  color: white;
 }
 .sub-text {
   font-size: 15px;
@@ -129,6 +135,6 @@ hr {
   margin-right: 20px;
 }
 .project-link {
-  direction: none;
+  text-decoration: none;
   color: #f08460;
 }
