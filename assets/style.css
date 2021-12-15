@@ -118,6 +118,12 @@ a {
   display: flex;
   justify-content: space-around;
 }
+@media only screen and (max-device-width: 1000px) {
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
 .project-card {
   width: 300px;
   height: 500px;
@@ -126,7 +132,8 @@ a {
 }
 .project-image {
   width: 300px;
-  border-radius: 150px;
+  height: 250px;
+  border-radius: 200px;
   margin-top: 25px;
   align-items: center;
 }
@@ -137,4 +144,19 @@ hr {
 .project-link {
   text-decoration: none;
   color: #f08460;
+}
+.hamburger {
+  display: none;
+}
+@media only screen and (max-width: 1000px) {
+  .hamburger {
+    display: block;
+    border: 0;
+    background-color: transparent;
+    color: white;
+    font-size: 30px;
+  }
+  ul {
+    display: none;
+  }
 }
