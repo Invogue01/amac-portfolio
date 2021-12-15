@@ -5,7 +5,7 @@ body {
 section {
  
   background-color: white;
-  border: solid black 2px;
+  
 }
 
 .hero {
@@ -94,11 +94,28 @@ p {
   justify-content: space-around;
   padding: 10px;
 }
-.headshot {
-  width: 200px;
-  border-radius: 100px;
+.sub-section-alternative {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
 }
 .headshot-container {
   display: flex;
   align-items: center;
 }
+.headshot {
+  width: 200px;
+  border-radius: 100px;
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-around;
+}
+.project-card {
+  width: 300px;
+  height: 500px;
+  box-shadow: 5px 2px 20px gray;
+}
+
