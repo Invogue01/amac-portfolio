@@ -6,11 +6,12 @@
 Potential employee's deployed portfolio of work samples which
 can be reviewed and assessed whether they're a good candidate for an open position. 
 Please NOTE this website is subject to change as more work samples will be added in the future.
+Please also view on Mobile device.
 ```
 
 ## Website Link
 
-![]()
+![https://invogue01.github.io/amac-portfolio/](https://invogue01.github.io/amac-portfolio/)
 
 ## Mock-Up
 
