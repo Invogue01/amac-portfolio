@@ -116,16 +116,36 @@ a {
   margin: 20px;
 }
 .sub-section {
-  
+  display: flex;
   justify-content: space-around;
   padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .sub-section-alternative {
-  
+  display: flex;
   flex-direction: column;
   text-align: center;
   padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
+@media only screen and (max-width: 480px) {
+.sub-section {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.sub-section-alternative {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+}
+
 .headshot-container {
   
   align-items: center;
