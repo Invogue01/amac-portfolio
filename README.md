@@ -17,5 +17,5 @@ Please also view on Mobile device.
 
 The following image shows the web application's appearance 
 
-![]()
+![Andrea Mac Portfolio](assets/images/amacPortfolio.png)
 
