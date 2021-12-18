@@ -15,6 +15,7 @@ section {
 }
 
 footer {
+  
   background-color: black;
   color: white;
   text-align: center;
@@ -40,8 +41,13 @@ h1 {
   font-size: 55px;
   margin: 0;
 }
-h2 {
+h2, h4 {
   font-size: 40px;
+}
+h6 {
+  
+  font-size: 15px;
+  text-align: center;
 }
 p {
   margin: 0;
@@ -110,26 +116,25 @@ a {
   margin: 20px;
 }
 .sub-section {
-  display: flex;
+  
   justify-content: space-around;
   padding: 10px;
 }
 .sub-section-alternative {
-  display: flex;
+  
   flex-direction: column;
   text-align: center;
   padding: 10px;
 }
 .headshot-container {
-  display: flex;
+  
   align-items: center;
 }
 .headshot {
-  display: flex;
   width: 300px;
   border-radius: 150px;
 }
-
+/*Bottom Section 'Projects' styling including project images and flex display for Mobile*/
 .project-container {
   display: flex;
   justify-content: space-around;
@@ -161,12 +166,14 @@ hr {
   text-decoration: none;
   color: #f08460;
 }
+/*Hiding Hamburger Menu when not on Mobile Device*/
 .hamburger {
   display: none;
 }
 .hamburger:focus {
   outline: 0;
 }
+/* Hamburger Menu styling for mobile view*/
 @media only screen and (max-device-width: 1000px) {
   .hamburger {
     display: block;
