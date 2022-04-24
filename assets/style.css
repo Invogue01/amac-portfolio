@@ -158,7 +158,8 @@ a {
 }
 .project-container {
   display: flex;
-  justify-content: space-around;
+  justify-content:center;
+  
 }
 @media only screen and (max-device-width: 1000px) {
   .project-container {
