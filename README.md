@@ -4,7 +4,7 @@
 
 ```
 Potential employee's deployed portfolio of work samples which
-can be reviewed and assessed whether they're a good candidate for an open position. 
+can be reviewed and assessed whether they're a good candidate for an open position.
 Please NOTE this website is subject to change as more work samples will be added in the future.
 Please also view on Mobile device.
 ```
@@ -15,7 +15,6 @@ Please also view on Mobile device.
 
 ## Mock-Up
 
-The following image shows the web application's appearance 
+The following image shows the web application's appearance
 
-![Andrea Mac Portfolio](assets/images/amacPortfolio.png)
-
+![Andrea Mac Portfolio](assets/images/updatedApp.png)
